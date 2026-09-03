@@ -2,16 +2,12 @@
 
 Proyecto de automatización de pruebas web para la plataforma de comercio electrónico de **Bon-bonite** (https://www.bon-bonite.com/). Desarrollado como parte de la prueba técnica de aseguramiento de calidad (QA) para **Q-Vision Technologies**.
 
----
-
 ## 1. Tecnologías Utilizadas
 
 * **Lenguaje:** Java 17
 * **Herramienta de construcción:** Apache Maven
 * **Automatización:** Selenium WebDriver
 * **Patrón de Diseño:** Page Object Model (POM)
-
----
 
 ## 2. Casos de Prueba Automatizados
 
@@ -20,8 +16,6 @@ Proyecto de automatización de pruebas web para la plataforma de comercio electr
 * **TC-005 (Agregar compras al carrito exitosamente):** Selección de producto con talla, adición a la bolsa y navegación fluida por el checkout.
 
 *(La documentación detallada de casos negativos y de borde se encuentra en el archivo Excel entregable).*
-
----
 
 ## 3. Instrucciones para Ejecutar las Pruebas
 
